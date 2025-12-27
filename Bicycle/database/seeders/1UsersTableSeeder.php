@@ -14,12 +14,12 @@ class UsersTableSeeder extends Seeder
      */
     public function run()
     {
-        
+
 
         \DB::table('users')->delete();
-        
+
         \DB::table('users')->insert(array (
-            0 => 
+            0 =>
             array (
                 'id' => 1,
                 'name' => 'Siêu cấp admin',
@@ -27,12 +27,12 @@ class UsersTableSeeder extends Seeder
                 'google_id' => NULL,
                 'role' => 'admin',
                 'email_verified_at' => NULL,
-                'password' => '$2y$12$Fs2hoCDQR510kyw0fHqO2O.sloXVH9JhuPKklhHKJdiWfA0BMl7.2',
+                'password' => '123456789',
                 'remember_token' => NULL,
                 'created_at' => '2024-11-25 08:10:21',
                 'updated_at' => '2025-01-11 10:15:13',
             ),
-            1 => 
+            1 =>
             array (
                 'id' => 6,
                 'name' => 'Đặng Dương Thắng',
@@ -45,7 +45,7 @@ class UsersTableSeeder extends Seeder
                 'created_at' => '2024-12-05 11:43:06',
                 'updated_at' => '2024-12-11 09:33:58',
             ),
-            2 => 
+            2 =>
             array (
                 'id' => 8,
                 'name' => 'thang duong',
@@ -58,7 +58,7 @@ class UsersTableSeeder extends Seeder
                 'created_at' => '2025-01-14 09:28:33',
                 'updated_at' => '2025-01-14 09:30:05',
             ),
-            3 => 
+            3 =>
             array (
                 'id' => 9,
                 'name' => 'Thú lạ',
@@ -72,7 +72,7 @@ class UsersTableSeeder extends Seeder
                 'updated_at' => '2025-01-14 09:36:50',
             ),
         ));
-        
-        
+
+
     }
 }
