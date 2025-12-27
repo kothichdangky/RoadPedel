@@ -1,0 +1,112 @@
+<?php
+
+
+
+    return [
+
+        'covid' => 'Hoạt động cửa hàng Covid 19',
+        'Read More' => 'Đọc thêm',
+        'Free Shipping For All Product' => 'Miễn phí vận chuyển cho mọi sản phẩm',
+        'Shop now' => 'Mua ngay',
+        'Admin' => 'Admin',
+        'HOME' => 'TRANG CHỦ',
+        'SERVICE' => 'DỊCH VỤ',
+        'PAGE' => 'TRANG',
+        'NEWS' => 'TIN TỨC',
+        'CONTACT' => 'LIÊN HỆ',
+        'FREE SHIPPING' => 'MIỄN PHÍ VẬN CHUYỂN',
+        '100% free shipping' => '100% miễn phí vận chuyển',
+        'FREE DELIVERY' => 'GIAO HÀNG MIỄN PHÍ',
+        '100% free delivery' => '100% giao hàng miễn phí',
+        'PRICE GUARANTEE' => 'CAM KẾT GIÁ',
+        'Transparent pricing' => 'Giá cả minh bạch',
+        'FREE STORE PICKUP' => ' MIỄN PHÍ TẠI CỬA HÀNG',
+        '100% free when ordering at the store' => '100% miễn phí khi đặt hàng ',
+        'WELCOME' => 'CHÀO MỪNG',
+        'Full Suspension Mountain Bikes' =>
+         'Xe đạp leo núi ',
+         'Full Suspension Mountain Bikes2' =>
+         ' giảm xóc toàn phần',
+
+        'Varius' => 'Khung xe đạp bền bỉ, tối ưu hoá chuyển động cho mọi địa hình. Hãy trải nghiệm cảm giác chinh phục các cung đường đầy thử thách!',
+        'ABOUT US' => 'VỀ CHÚNG TÔI',
+        'Welcome To RoadPedal' => 'Chào mừng đến với RoadPedal',
+        'Lorem orci elementum dictum viverra sed lobortis vitae purus. Vitae eget cursus dictum ac tellus faucibus. Porta aliquet neque morbi interdum sem enim. Nunc porttitor.' => 'Chúng tôi cam kết cung cấp sản phẩm chất lượng cao, đáp ứng mọi nhu cầu của khách hàng.',
+        'Rhoncus nec malesuada Quis fusce molestie maecenas turpis sociis congue elementum libero. Urna nisl tellus pharetra libero risus. Pellentesque risus sem' => 'RoadPedal là nơi mang đến sự lựa chọn tuyệt vời nhất cho những ai yêu thích xe đạp. ',
+        'Special Items' => 'Sản phẩm đặc biệt',
+        'Browse items now.' => 'Khám phá ngay.',
+        'Just Arrived' => 'Vừa mới có hàng',
+        'Top Selling' => 'Bán chạy nhất',
+        'Add to cart' => 'Thêm vào giỏ hàng',
+        'Featured Bicycles' => 'Xe đạp nổi bật',
+        'Find Your Next Bike' => 'Tìm chiếc xe tiếp theo của bạn',
+        'Lorem orci elementum dictum viverra sed lobortis vitae purus Vitae eget cursus dictum ac tellus faucibus Porta aliquet' => 'Khám phá những mẫu xe đạp hiện đại, bền bỉ và tối ưu cho mọi hành trình.',
+        'View more' => 'Xem thêm',
+        'new arrival' => 'Hàng mới về',
+        'SHOP' => 'CỬA HÀNG',
+        'Shop by Category' => 'Mua sắm theo danh mục',
+        'Apparel' => 'Trang phục',
+        'Accessories' => 'Phụ kiện',
+        'Component' => 'Linh kiện',
+        'Bicycle Bag' => 'Túi xe đạp',
+        'Custom Cycling Kit' => 'Dụng cụ xe đạp tuỳ chỉnh',
+        'Shoes' => 'Giày',
+        'SERVICES' => 'DỊCH VỤ',
+        'Our Bike Services' => 'Dịch vụ xe đạp của chúng tôi',
+        'UPGRADE' => 'NÂNG CẤP',
+        'Bike Repair' => 'Sửa xe',
+        'Lorem2' => 'Chào bạn! Chúng tôi cung cấp dịch vụ sửa chữa xe chuyên nghiệp, từ bảo dưỡng định kỳ đến các sự cố kỹ thuật. Đảm bảo chất lượng, nhanh chóng và an toàn. Liên hệ ngay để được hỗ trợ!',
+        'Looking To Upgrade?' => 'Bạn muốn nâng cấp?',
+        'lets discuss so that the upgrade is according to your wishes' => 'Hãy trao đổi để nâng cấp xe đạp theo ý muốn của bạn',
+        'Lorem orci elementum dictum viverra sed lobortis vitae purus. Vitae eget cursus dictum ac tellus faucibus. Porta aliquet neque morbi interdum sem enim. Nunc porttitor.' => 'Chúng tôi cung cấp dịch vụ nâng cấp và tùy chỉnh để giúp bạn có trải nghiệm lái xe tốt nhất.',
+        'Contact Us' => 'Liên hệ với chúng tôi',
+        'Vitae tellus aenean et aliquam nibh Feugiat suspendisse proin pulvinar.' => 'Hãy kết nối với chúng tôi để được hỗ trợ tận tình và nhanh chóng.',
+        'Lorem orci elementum dictum viverra sed lobortis vitae purus. Vitae eget cursus dictum ac tellus faucibus. Porta aliquet neque morbi interdum sem enim. Nunc porttitor.' => 'Đội ngũ của chúng tôi luôn sẵn sàng hỗ trợ và giải đáp mọi thắc mắc của bạn.',
+        'TESTIMONIALS' => 'ĐÁNH GIÁ',
+        'Why Our Customer Love RoadPedal' => 'Tại sao khách hàng yêu thích RoadPedal',
+        'Lorem orci elementum dictum viverra sed lobortis vitae purus Vitae
+    eget cursus dictum ac tellus faucibus Porta aliquet' => 'Khách hàng yêu thích chúng tôi vì chất lượng sản phẩm tuyệt vời và dịch vụ chuyên nghiệp.',
+        'NEWSLETTER' => 'BẢN TIN',
+        'Join Our Newsletter' => 'Tham gia bản tin của chúng tôi',
+        'Lorem orci elementum dictum viverra sed lobortis vitae purus Vitae eget cursus dictum ac tellus faucibus Porta aliquet' => 'Cập nhật thông tin mới nhất về sản phẩm và chương trình khuyến mãi từ chúng tôi.',
+        'Lectus ac pulvinar tincidunt accumsan ulla lectus facilis isaclect Molestieuam ublandit vulputatctus in sit egestas dolor purus tincidunt.' => 'Cùng nhận những ưu đãi đặc biệt và mẹo vặt khi sử dụng xe đạp hiệu quả.',
+        'Services' => 'Dịch vụ',
+        'Lorem3' => 'Khách hàng yêu thích dịch vụ của chúng tôi vì chất lượng sửa chữa đảm bảo, đội ngũ kỹ thuật viên giàu kinh nghiệm, và thời gian phục vụ nhanh chóng. Chúng tôi luôn chú trọng đến sự hài lòng của khách hàng, với giá cả hợp lý và dịch vụ tận tâm.',
+        'Enter your email address' => 'Nhập email của bạn',
+        'Location' => 'VỊ TRÍ',
+        'Bike Fitting' =>'Chỉnh xe',
+        'Custom Service' => 'làm theo yêu cầu',
+
+        //service
+         "Our Services" => "Dịch vụ của chúng tôi",
+         "Our Bike Services" => "Các dịch vụ xe đạp",
+         'orem' => 'Các dịch vụ chất lượng mà chúng tôi có đảm bảo chất lượng ',
+         'Bike Rental' => 'Thuê xe đạp',
+         'Bike1' => 'Chào mừng bạn đến với dịch vụ sửa xe đạp đáng tin cậy của chúng tôi! Với đội ngũ kỹ thuật viên lành nghề, chúng tôi chuyên xử lý mọi vấn đề từ nhỏ đến lớn của xe đạp, bao gồm sửa phanh, thay xích, cân chỉnh bánh, bảo dưỡng định kỳ và nâng cấp phụ tùng. Mỗi dịch vụ đều được thực hiện cẩn thận, sử dụng linh kiện chất lượng để đảm bảo xe hoạt động trơn tru và bền bỉ.',
+         'Bike2' => 'Xe đạp của bạn đang gặp vấn đề như bánh không cân, xích lỏng, phanh kém ăn hay tay
+         lái không ổn định? Hãy để chúng tôi giúp bạn! Chúng tôi cung cấp dịch vụ chỉnh xe đạp toàn diện,
+         bao gồm cân chỉnh bánh xe, tăng chỉnh phanh, căn chỉnh xích và đĩa líp, đảm bảo xe vận hành trơn tru và an toàn.',
+         'Bike3' => 'Bạn đang tìm một chiếc xe đạp để khám phá thành phố, tham gia các chuyến đi dã ngoại hay đơn giản là rèn luyện sức khỏe? Chúng tôi cung cấp dịch vụ cho thuê xe đạp với nhiều loại xe hiện đại, phù hợp mọi nhu cầu, từ xe địa hình mạnh mẽ đến xe đường phố tiện lợi.',
+         'CALL US' => 'GỌI CHÚNG TÔI',
+         'Want To Service The' => 'Muốn sử dụng dịch vụ',
+         "Bike But Can't Get Here?" => "Nhưng xe không ở đây?",
+         'We Will Be There' => 'Chúng tôi sẽ tới',
+         'Bike4' => 'Không cần tốn thời gian mang xe đến cửa hàng,',
+         'Bike5' => 'giờ đây chúng tôi mang dịch vụ sửa chữa và bảo dưỡng xe đạp đến tận nhà bạn. ',
+         'Get Started Now' => 'Bắt đầu thôi',
+         'Bike6' => 'điền thông tin của bạn ở bên dưới',
+         'Write message' =>'Ghi chú',
+         'Name' => 'Tên',
+         'Phone' => 'Số điện thoại',
+
+        //admin
+        'Number' => 'Số điện thoại',
+        'image' => 'Ảnh',
+        'price' => 'Giá',
+        'price_sale' => 'Giá giảm',
+
+];
+
+
+
+

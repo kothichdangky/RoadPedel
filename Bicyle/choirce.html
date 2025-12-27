@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Choices.js Full Example</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/choices.js/public/assets/styles/choices.min.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 20px;
+            line-height: 1.5;
+        }
+
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        .example {
+            margin-bottom: 30px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Choices.js Demo</h1>
+
+        <!-- Single Select Dropdown -->
+        <div class="example">
+            <label for="single-select">Single Select Dropdown:</label>
+            <select id="single-select">
+                <option value="option-1">Option 1</option>
+                <option value="option-2">Option 2</option>
+                <option value="option-3">Option 3</option>
+            </select>
+        </div>
+
+        <!-- Multi-select Dropdown -->
+        <div class="example">
+            <label for="multi-select">Multi-select Dropdown:</label>
+            <select id="multi-select" multiple>
+                <option value="red">Red</option>
+                <option value="blue">Blue</option>
+                <option value="green">Green</option>
+                <option value="yellow">Yellow</option>
+            </select>
+        </div>
+
+        <!-- Input with Tags -->
+        <div class="example">
+            <label for="tag-input">Input with Tags:</label>
+            <input id="tag-input" type="text" placeholder="Add tags...">
+        </div>
+
+        <!-- Dynamic Choices -->
+        <div class="example">
+            <label for="dynamic-select">Dynamic Choices:</label>
+            <select id="dynamic-select"></select>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/choices.js/public/assets/scripts/choices.min.js"></script>
+    <script>
+        // Initialize single select dropdown
+        const singleSelect = new Choices('#single-select', {
+            searchEnabled: true,
+            placeholderValue: 'Select an option...',
+            noChoicesText: 'No options available'
+        });
+
+        // Initialize multi-select dropdown
+        const multiSelect = new Choices('#multi-select', {
+            removeItemButton: true,
+            searchEnabled: true,
+            placeholderValue: 'Select multiple options...'
+        });
+
+        // Initialize input with tags
+        const tagInput = new Choices('#tag-input', {
+            duplicateItemsAllowed: false,
+            removeItemButton: true,
+            addItems: true,
+            placeholderValue: 'Add tags here...'
+        });
+
+        // Initialize dynamic select dropdown
+        const dynamicSelect = new Choices('#dynamic-select', {
+            placeholderValue: 'Loading options...'
+        });
+
+        // Add dynamic data to dropdown
+        dynamicSelect.setChoices([
+            { value: 'dynamic-1', label: 'Dynamic Option 1' },
+            { value: 'dynamic-2', label: 'Dynamic Option 2', selected: true },
+            { value: 'dynamic-3', label: 'Dynamic Option 3' }
+        ], 'value', 'label', false);
+    </script>
+</body>
+</html>

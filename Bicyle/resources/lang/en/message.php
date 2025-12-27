@@ -1,0 +1,108 @@
+<?php
+
+return [
+
+    'covid' => 'Covid 19 Store Operation',
+    'Read More' => 'Read More',
+    'Free Shipping For All Product' => 'Free Shipping For All Product',
+    'Shop now' => 'Shop now',
+    'HOME' => 'HOME',
+    'Admin' => 'Admin',
+    'SERVICE' => 'SERVICE',
+    'PAGE' => 'PAGE',
+    'NEWS' => 'NEWS',
+    'CONTACT' => 'CONTACT',
+    'FREE SHIPPING' => 'FREE SHIPPING',
+    '100% free shipping' => '100% free shipping',
+    'FREE DELIVERY' => 'FREE DELIVERY',
+    '100% free delivery' => '100% free delivery',
+    'PRICE GUARANTEE' => 'PRICE GUARANTEE',
+    'Transparent pricing' => 'Transparent pricing',
+    'FREE STORE PICKUP' => 'FREE STORE PICKUP',
+    '100% free when ordering at the store' => '100% free when ordering ',
+    'WELCOME' => 'WELCOME',
+    'Full Suspension Mountain Bikes' =>'Full Suspension Mountain Bikes',
+    'Full Suspension Mountain Bikes2' =>
+    '',
+    'Varius' => 'Varius nisl lobortis lorem augue pellentesque ultrices Nisi
+tempor nisl lectus purus ut enim quis sed Cursus cursus
+ipsum massa gravida purus',
+    'ABOUT US' => 'ABOUT US',
+    'Welcome To RoadPedal' => 'Welcome To RoadPedal',
+    'Lorem orci elementum dictum viverra sed lobortis vitae purus. Vitae eget cursus dictum ac tellus faucibus. Porta aliquet neque morbi interdum sem enim. Nunc porttitor.
+Rhoncus nec malesuada Quis fusce molestie maecenas turpis sociis congue elementum libero. Urna nisl tellus pharetra libero risus. Pellentesque risus sem' => 'Lorem orci elementum dictum viverra sed lobortis vitae purus. Vitae eget cursus dictum ac tellus faucibus. Porta aliquet neque morbi interdum sem enim. Nunc porttitor.
+Rhoncus nec malesuada Quis fusce molestie maecenas turpis sociis congue elementum libero. Urna nisl tellus pharetra libero risus. Pellentesque risus sem',
+    'Special Items' => 'Special Items',
+    'Browse items now.' => 'Browse items now.',
+    'Just Arrived' => 'Just Arrived',
+    'Accessories' => 'Accessories',
+    'Top Selling' => 'Top Selling',
+    'Add to cart' => 'Add to cart',
+    'Featured Bicycles' => 'Featured Bicycles',
+    'Find Your Next Bike' => 'Find Your Next Bike',
+    'Lorem' => 'Lorem orci elementum dictum viverra sed lobortis vitae purus Vitae
+eget cursus dictum ac tellus faucibus Porta aliquet',
+    'View more' => 'View more',
+    'new arrival' => 'new arrival',
+    'SHOP' => 'SHOP',
+    'Shop by Category' => 'Shop by Category',
+    'Apparel' => 'Apparel',
+    'SERVICES' => 'SERVICES',
+    'Accesories' => 'Accesories',
+    'Component' => 'Component',
+    'Bicycle Bag' => 'Bicycle Bag',
+    'Custom Cycling Kit' => 'Custom Cycling Kit',
+    'Shoes' => 'Shoes',
+    'Our Bike Services' => 'Our Bike Services',
+    'Bike Repair' => 'Bike Repair',
+    'Lorem2' => 'Lorem orci elementum dictum viverra lobortis vitae purus Vitae eget cursus dictum tellus faucibus Porta aliquet',
+    'UPGRADE' => 'UPGRADE',
+    'Looking To Upgrade?' => 'Looking To Upgrade?',
+    'lets discuss so that the upgrade is according to your wishes' => 'let is discuss so that the upgrade is according to your wishes',
+    'Lorem orci elementum dictum viverra sed lobortis vitae purus. Vitae eget cursus dictum ac tellus faucibus. Porta aliquet neque morbi interdum sem enim. Nunc porttitor.' => 'Lorem orci elementum dictum viverra sed lobortis vitae purus. Vitae eget cursus dictum ac tellus faucibus. Porta aliquet neque morbi interdum sem enim. Nunc porttitor.',
+    'Contact Us' => 'Contact Us',
+    'Vitae tellus aenean et aliquam nibh Feugiat suspendisse proin pulvinar.' => 'Vitae tellus aenean et aliquam nibh Feugiat suspendisse proin pulvinar.',
+    'Lorem orci elementum dictum viverra sed lobortis vitae purus. Vitae eget cursus dictum ac tellus faucibus. Porta aliquet neque morbi interdum sem enim. Nunc porttitor.' => 'Lorem orci elementum dictum viverra sed lobortis vitae purus. Vitae eget cursus dictum ac tellus faucibus. Porta aliquet neque morbi interdum sem enim. Nunc porttitor.',
+    'TESTIMONIALS' => 'TESTIMONIALS',
+    'Why Our Customer Love RoadPedal' => 'Why Our Customer Love RoadPedal',
+    'Lorem orci elementum dictum viverra sed lobortis vitae purus Vitae
+eget cursus dictum ac tellus faucibus Porta aliquet' => 'Lorem orci elementum dictum viverra sed lobortis vitae purus Vitae
+eget cursus dictum ac tellus faucibus Porta aliquet',
+    'NEWSLETTER' => 'NEWSLETTER',
+    'Join Our Newsletter' => 'Join Our Newsletter',
+    'Lorem orci elementum dictum viverra sed lobortis vitae purus Vitae eget cursus dictum ac tellus faucibus Porta aliquet' => 'Lorem orci elementum dictum viverra sed lobortis vitae purus Vitae eget cursus dictum ac tellus faucibus Porta aliquet',
+    'Lectus ac pulvinar tincidunt accumsan ulla lectus facilis isaclect Molestieuam ublandit vulputatctus in sit egestas dolor purus tincidunt.' => 'Lectus ac pulvinar tincidunt accumsan ulla lectus facilis isaclect Molestieuam ublandit vulputatctus in sit egestas dolor purus tincidunt.',
+    'Services' => 'Services',
+    'Lorem3' => 'Lorem orci elementum dictum viverra sed lobortis vitae purus Vitae
+eget cursus dictum ac tellus faucibus Porta aliquet',
+'Enter your email address' => 'Enter your email address',
+'Location' => 'Location',
+'Bike Fitting' =>'Bike Fitting',
+        'Custom Service' => 'Custom Service',
+
+
+    //service
+   "Our Services" => "Our Services",
+   "Our Bike Services" => "Our Bike Services",
+   'Bike1' => 'Welcome to our reliable bicycle repair service! With a team of skilled technicians, we specialize in handling all issues, big or small, including brake repairs, chain replacements, wheel alignment, regular maintenance, and component upgrades. Every service is performed carefully, using high-quality parts to ensure smooth and durable bike operation.',
+   'Bike2' => 'Is your bike facing issues like unbalanced wheels, loose chains, weak brakes, or unstable handlebars? Let us help you! We provide comprehensive bike adjustment services, including wheel alignment, brake tuning, chain and gear adjustments, ensuring your bike runs smoothly and safely.',
+   'Bike3' => 'Are you looking for a bike to explore the city, join outdoor trips, or simply exercise? We offer bike rental services with a variety of modern bikes to suit all needs, from sturdy mountain bikes to convenient city bikes.',
+   'CALL US' => 'CALL US',
+   'Want To Service The' => 'Want To Service The',
+   "Bike But Can't Get Here?" => "Bike But Can't Get Here?",
+   'We Will Be There' => 'We Will Be There',
+   'bike4' =>'No need to spend time bringing your bike to the shop-our at-home bicycle  ',
+   'bike5' =>' repair service comes directly to you! ',
+   'Get Started Now' => 'Get Started Now',
+   'Bike6' => 'Fill in your information below',
+   'Write message' =>'Write message',
+   'Name' => 'Name',
+   'Phone' => 'Phone',
+
+   //admin
+   'Number' => 'Number',
+   'image' => 'Image',
+   'price' => 'Price',
+   'price_sale' => 'Price sale',
+
+];

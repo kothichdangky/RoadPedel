@@ -1,0 +1,13 @@
+những API này nằm trong .env
+PAYPAL_CLIENT_ID=-------
+PAYPAL_CLIENT_SECRET=-------
+PAYPAL_CURRENCY=-------
+
+MAIL_MAILER=smtp
+MAIL_HOST=smtp.gmail.com
+MAIL_PORT=587
+MAIL_USERNAME=thangsos8900@gmail.com
+MAIL_PASSWORD=
+MAIL_ENCRYPTION=tls
+MAIL_FROM_ADDRESS="thangsos8900@gmail.com"
+MAIL_TO_ADDRESS="thangsos8900@gmail.com"
